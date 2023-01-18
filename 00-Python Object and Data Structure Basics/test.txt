@@ -1,2 +1,3 @@
-First Line
-Second Line
+Hello, this is a quick test file.
+this is the second line
+this is the third line
